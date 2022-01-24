@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.name-identify{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+.herohalf{
+    width: 40%;
+    float: left;
+    padding-left: 4%;
+}
+.herohalf img{
+    width: 100%;
+}
